@@ -1,0 +1,5 @@
+TransID,TransType,Date,Amount
+5599,Deposit,2022-06-21,262.0
+5600,Deposit,2022-06-21,85.0
+5601,Withdrawal,2022-06-21,-55.0
+5602,Withdrawal,2022-06-21,-22.0
